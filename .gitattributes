@@ -1,0 +1,2 @@
+podaci/d10800_BS1_JoinedTrans.csv filter=lfs diff=lfs merge=lfs -text
+podaci/d10800_BS2_JoinedTrans.csv filter=lfs diff=lfs merge=lfs -text
